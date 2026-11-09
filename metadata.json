@@ -1,0 +1,6 @@
+{
+  "name": "ElectroStatic - Pixel Platformer",
+  "description": "Retro pixel art platformer játék elektrosztatikai kísérleti eszközökkel, ugrással, dasheléssel, lőni képes ellenségekkel és kihívást jelentő akadálypályákkal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
