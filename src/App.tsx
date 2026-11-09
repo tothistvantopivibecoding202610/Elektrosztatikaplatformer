@@ -302,11 +302,6 @@ export default function App() {
                   ELECTRO<span className="text-sky-400">STATIC</span> LAB
                 </h1>
 
-                <p className="text-sm text-slate-300 leading-relaxed font-sans-ui">
-                  Győzd le a kihívást jelentő akadálypályákat az elektrosztatika valódi kísérleti eszközeivel! 
-                  Használd a Van de Graaff taszítást, a Wimshurst szikrákat, ugorj, dashelj és semmisítsd meg a tüzelő robotokat!
-                </p>
-
                 {/* Level selection cards */}
                 <div className="grid grid-cols-2 gap-3 pt-2 text-left">
                   {LEVELS.map((lvl, idx) => (
